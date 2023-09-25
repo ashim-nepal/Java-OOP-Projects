@@ -1,153 +1,50 @@
-
+## Java OOP Projects
 # 
 
-A brief description of what this project does and who it's for
+This Repository consists of every Java Projects that I have done. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my projects of Java! 
 
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- I would like to thank all of my teachers, colleagues, friends who helped me in completing all of these java projects.
 
-
-## Appendix
-
-Any additional information goes here
+- I would also like to thank all the awesome coders who have contributed different things about Java in the internet from where I took guidance.
+- Thank you to all those who helped me directly or indirectly.  
 
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
+- [@ashim-nepal](https://www.github.com/ashim-nepal)
 
 ## FAQ
 
-#### Question 1
+#### What does this repository consist of?
 
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+This repo is full of different Java OOP projects I have done. Projects may vary from being simple to advanced.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at nepalashim90@gmail.com
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-
-
 # Hi, I'm Katherine! 👋
+I'm a Student, Learner, Programmer who is learning and working in AI, Cyber Security with Python & Java as major programming Language
+
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashimnepal.com.np/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-nepal)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asnp_ash)
 
 ![Logo](https://github.com/ashim-nepal/images/blob/main/logoNewNobg.png?raw=true)
-
+Ashim Nepal [AI]
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
+For support, email at nepalashim90@gmail.com
