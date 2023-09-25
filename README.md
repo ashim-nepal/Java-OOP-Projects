@@ -28,7 +28,7 @@ If you have any feedback, please reach out to us at nepalashim90@gmail.com
 
 
 ## 🚀 About Me
-# Hi, I'm Katherine! 👋
+# Hi, I'm Ashim! 👋
 I'm a Student, Learner, Programmer who is learning and working in AI, Cyber Security with Python & Java as major programming Language
 
 
