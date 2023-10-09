@@ -20,7 +20,7 @@ This Repository consists of every Java Projects that I have done. You are Free t
 
 #### What does this repository consist of?
 
-This repo is full of different Java OOP projects I have done. Projects may vary from being simple to advanced.
+This repo is full of different Java OOP projects I have done. Projects may vary from being simple to advanced. Every projects done are OOP concepts used in Java.
 
 ## Feedback
 
