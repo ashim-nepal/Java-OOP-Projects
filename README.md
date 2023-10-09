@@ -12,7 +12,7 @@ This Repository consists of every Java Projects that I have done. You are Free t
 - Thank you to all those who helped me directly or indirectly.  
 
 
-## Authors
+## Author
 
 - [@ashim-nepal](https://www.github.com/ashim-nepal)
 
