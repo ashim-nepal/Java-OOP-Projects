@@ -64,14 +64,16 @@ Registering the user logging in with credentials and sending message by first us
 
 <br>
 Again, registering the second user logging in with credentials and sending message by second user.
+
 ![app-2](https://github.com/ashim-nepal/Java-OOP-Projects/blob/main/ChatAppOOP/screenshots/Screenshot%202024-07-04%20180357.png)
 
 <br>
 Exiting the session and adding new user 3 and logging in in the console. Checking messages in chat box from previous seessions which is stored in data/messages.dat
-CASE-I
+
 ![app-3](https://github.com/ashim-nepal/Java-OOP-Projects/blob/main/ChatAppOOP/screenshots/Screenshot%202024-07-04%20180536.png)
 
 <br>
+
 Finally using application from user 3 credentials.
 ![app-4](https://github.com/ashim-nepal/Java-OOP-Projects/blob/main/ChatAppOOP/screenshots/Screenshot%202024-07-04%20180549.png)
 
